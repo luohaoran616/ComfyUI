@@ -157,3 +157,8 @@ webencodings==0.5.1
 websocket-client==1.7.0
 yarl==1.9.4
 zipp==3.18.1
+GitPython
+PyGithub
+matrix-client==0.4.0
+transformers
+huggingface-hub>0.20
